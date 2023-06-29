@@ -26,7 +26,7 @@ include(CTest)
 
 enable_testing()
 
-add_executable(Single single_linked_list.cpp )
+add_executable(Single single_LL.cpp )
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 
